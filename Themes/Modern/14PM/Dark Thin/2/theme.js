@@ -1,3 +1,4 @@
+ctx.translate(0, 40);
 //Greeting
 ctx.font = 'bold 64px -apple-system';
 ctx.textAlign = "left";
