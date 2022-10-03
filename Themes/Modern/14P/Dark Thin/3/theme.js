@@ -1,11 +1,10 @@
-
 //Greeting
 ctx.font = 'bold 57px -apple-system';
 ctx.textAlign = "left";
 ctx.fillStyle = "#ffffff";
 ctx.shadowOffsetY = 4;
 ctx.shadowColor = "rgba(0,0,0,0.1)";
-ctx.shadowBlur = 32;
+ctx.shadowBlur = 32; 
 ctx.fillText('$GREETING$', 80, 1298, 998);
 
 //Line1
