@@ -6,7 +6,7 @@
     "Comp-Ring Warning": "#FF375F"
   },
   "Filter": "blur(38px) saturate(172%) contrast(120%);",
-  "Name": "Light Thin",
+  "Name": "Dark Thin",
 
   "Icon": {
     "W": 284,
@@ -15,21 +15,21 @@
     "Y": 1650
   },
   "Overlay": {
-    "W": 62,
-    "H": 68,
-    "X": 90,
-    "Y": 1530
+    "W": 0,
+    "H": 0,
+    "X": 0,
+    "Y": 0
   },
     
   "Support": {
-    "Colorize": "No",
+    "Colorize": "Yes",
     "Colorize Icon": "No",
     "Colorize Opacity": 30,
     "Colorize Overlay": "No",
     "Dim": "Yes",
     "Icons": "Yes",
     "Overlay": "No",
-    "WeatherFX": "Yes"
+    "WeatherFX": "No"
   },
-  "WeatherFX Strength": 100
+  "WeatherFX Strength": 40
 }
