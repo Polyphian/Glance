@@ -1,0 +1,35 @@
+{
+  "Colors": {
+    "Comp-Ring Battery": "#76FF2D",
+    "Comp-Ring Rain": "#0A84FF",
+    "Comp-Ring UV Index": "#76FF2D",
+    "Comp-Ring Warning": "#FF375F"
+  },
+  "Filter": "blur(38px) saturate(172%) contrast(120%);",
+  "Name": "Mac Light",
+
+  "Icon": {
+    "H": 165,
+    "W": 165,
+    "X": 1080,
+    "Y": 831
+  },
+  "Overlay": {
+    "H": 70,
+    "W": 63,
+    "X": 91,
+    "Y": 879
+  },
+    
+  "Support": {
+    "Colorize": "No",
+    "Colorize Icon": "No",
+    "Colorize Opacity": 30,
+    "Colorize Overlay": "No",
+    "Dim": "Yes",
+    "Icons": "Yes",
+    "Overlay": "Yes",
+    "WeatherFX": "Yes"
+  },
+  "WeatherFX Strength": 100
+}

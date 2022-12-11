@@ -1,0 +1,35 @@
+{
+  "Colors": {
+    "Comp-Ring Battery": "#76FF2D",
+    "Comp-Ring Rain": "#0A84FF",
+    "Comp-Ring UV Index": "#76FF2D",
+    "Comp-Ring Warning": "#FF375F"
+  },
+  "Filter": "blur(38px) saturate(172%) contrast(120%);",
+  "Name": "Depths Light",
+
+  "Icon": {
+    "H": 280,
+    "W": 301,
+    "X": 920,
+    "Y": 1078
+  },
+  "Overlay": {
+    "H": 70,
+    "W": 63,
+    "X": 91,
+    "Y": 1089
+  },
+    
+  "Support": {
+    "Colorize": "No",
+    "Colorize Icon": "No",
+    "Colorize Opacity": 30,
+    "Colorize Overlay": "No",
+    "Dim": "Yes",
+    "Icons": "Yes",
+    "Overlay": "No",
+    "WeatherFX": "No"
+  },
+  "WeatherFX Strength": 100
+}

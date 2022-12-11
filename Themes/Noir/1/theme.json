@@ -1,0 +1,35 @@
+{
+  "Colors": {
+    "Comp-Ring Battery": "#76FF2D",
+    "Comp-Ring Rain": "#0A84FF",
+    "Comp-Ring UV Index": "#76FF2D",
+    "Comp-Ring Warning": "#FF375F"
+  },
+  "Filter": "blur(38px) saturate(172%) contrast(120%);",
+  "Name": "Noir",
+
+  "Icon": {
+    "H": 165,
+    "W": 165,
+    "X": 1080,
+    "Y": 1980
+  },
+  "Overlay": {
+    "H": 70,
+    "W": 63,
+    "X": 91,
+    "Y": 2027
+  },
+    
+  "Support": {
+    "Colorize": "Yes",
+    "Colorize Icon": "Yes",
+    "Colorize Opacity": 30,
+    "Colorize Overlay": "Yes",
+    "Dim": "Yes",
+    "Icons": "Yes",
+    "Overlay": "Yes",
+    "WeatherFX": "Yes"
+  },
+  "WeatherFX Strength": 40
+}

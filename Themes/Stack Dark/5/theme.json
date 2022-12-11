@@ -1,0 +1,52 @@
+{
+  "Colors": {
+    "Comp-Ring Battery": "#76FF2D",
+    "Comp-Ring Rain": "#0A84FF",
+    "Comp-Ring UV Index": "#76FF2D",
+    "Comp-Ring Warning": "#FF375F"
+  },
+  "Filter": "blur(38px) saturate(172%) contrast(120%);",
+  "Name": "Stack Dark",
+  "Battery": {
+    "H": 284,
+    "W": 284,
+    "X": 0,
+    "Y": 1544
+  },
+  "Moon": {
+    "H": 284,
+    "W": 284,
+    "X": 0,
+    "Y": 1297
+  },
+
+      "Icon": {
+        "H": 284,
+        "W": 284,
+        "X": 0,
+        "Y": 803
+      },
+      "Overlay": {
+        "H": 0,
+        "W": 0,
+        "X": 0,
+        "Y": 0
+      },
+    
+  "Support": {
+    "Colorize": "No",
+    "Colorize Icon": "No",
+    "Colorize Opacity": 30,
+    "Colorize Overlay": "No",
+    "Dim": "Yes",
+    "Icons": "Yes",
+    "Overlay": "No",
+    "WeatherFX": "No",
+    "Blur": "No",
+    "Dates": "Yes",
+    "Calendar": "Yes",
+    "Reminders": "No",
+    "Moon": "Yes"
+  },
+  "WeatherFX Strength": 0
+}
